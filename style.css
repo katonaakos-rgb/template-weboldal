@@ -1,0 +1,41 @@
+body{
+    background-color:#f5f5f5;
+}
+
+h2{
+    color:#c00000;
+}
+
+.w3-bar{
+    background-color:black !important;
+}
+
+.w3-bar-item:hover{
+    background-color:#c00000 !important;
+    color:white !important;
+}
+
+.mySlides img{
+    height:500px;
+    object-fit:cover;
+}
+
+.w3-third img{
+    border-radius:10px;
+}
+
+.w3-button{
+    border-radius:5px;
+}
+
+.w3-container.w3-white{
+    border-radius:5px;
+}
+
+footer{
+    background-color:#e0e0e0;
+}
+
+.w3-justify{
+    line-height:1.6;
+}

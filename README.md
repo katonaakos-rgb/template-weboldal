@@ -17,11 +17,11 @@ Ezt a W3.CSS template-et választottam: Gourmet Catering Template
 
 ## Mit módosítottam?
 
--
--
--
--
--
+- képek
+- saját css-ben dolgoztam
+- a jegyek résznek megváltoztattam a színét
+- a fenti gyorsmenüknek a nevét
+- szövegeket
 
 ## Használt technológiák
 
